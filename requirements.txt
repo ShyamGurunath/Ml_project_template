@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+sklearn
+feature_engine
+mlxtend
+imblearn
+flake8
+jupyter
+yellowbrick
