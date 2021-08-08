@@ -1,5 +1,5 @@
-## Ml-Project Template
-==============================
+## Ml-Project Template: ![example workflow](https://github.com/ShyamGurunath/Ml_project_template/actions/workflows/cicd.yml/badge.svg)
+----------------------------------------------------------------
 
 ![](https://cloud.google.com/ai-platform/images/ml-workflow.svg)
 
