@@ -9,7 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: docker://dvcorg/cml-py3:latest
     steps:
       - uses: actions/checkout@v2
       - name: Install dependencies
@@ -28,6 +27,4 @@ jobs:
 
       - name: cml-run
         run: |
-          echo "## MODEL METRICS" > report.md 
-
-          cml-send-comment report.md
+          echo "## MODEL METRICS"
