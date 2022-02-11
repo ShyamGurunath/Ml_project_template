@@ -10,3 +10,4 @@ imblearn
 flake8
 jupyter
 yellowbrick
+streamlit
