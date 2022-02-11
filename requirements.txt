@@ -9,3 +9,5 @@ mlxtend
 imblearn
 flake8
 jupyter
+streamlit
+
