@@ -3,7 +3,7 @@
 
 ![](https://cloud.google.com/ai-platform/images/ml-workflow.svg)
 
-### This is my template for Machine Learning Projects.
+### This is a raw template for Machine Learning Projects.
 
 ------
 
